@@ -47,4 +47,5 @@ Mostrando também quais rotas acessam cada funcionalidade, temos:
 
 <br>
 </div>
-- Para o desenvolvimento dessa simulação de API, optei por criar todos em termos em **inglês** e deixar em português apenas o que **se comunica com o Front-End** e o que já estava no "banco de dados" proposto pela professora durante as aulas.
+
+- Para o desenvolvimento dessa simulação de API, optei por criar todos em termos em **inglês** e deixar em português apenas o que **e comunica com o Front-End** e o que já estava no "banco de dados" proposto pela professora durante as aulas.
