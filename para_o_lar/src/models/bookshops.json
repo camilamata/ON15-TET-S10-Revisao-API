@@ -21,8 +21,21 @@
         "bairro": "Bubu",
         "cidade": "Tangara",
         "telefone": "4155-4452",
-        "pagamento": ["Dinheiro", "cartao", "pix"],
+        "pagamento": ["Dinheiro", "cartao"],
         "site" : "rosevariedades.com.br"
+    },
+
+    {
+        "id": 3,
+        "likes": 1,
+        "nome": "Trem Literário",
+        "endereço": "Rua Logo Ali",
+        "numero": 237,
+        "bairro": "Vida Toda",
+        "cidade": "Belo Horizonte",
+        "telefone": "4155-4456",
+        "pagamento": ["Dinheiro", "cartao", "pix"],
+        "site" : "tremliterario.com.br"
     }
     
 ]
